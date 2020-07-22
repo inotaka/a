@@ -7,6 +7,7 @@
 <body>
 
 <h1>練習練習</h1>
-
+<h2>pullの練習</h2>
+  
 </body>
 </html>
