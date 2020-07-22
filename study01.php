@@ -6,12 +6,7 @@
 </head>
 <body>
 
-<?php
-    $a = 2;
-    $b = 3;
-    
-    echo $c = $a + $b;
-?>
+<h1>練習練習</h1>
 
 </body>
 </html>
